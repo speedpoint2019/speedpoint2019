@@ -1,5 +1,5 @@
 <h1 align="center">(＾◡＾)っ Hi ♡, I'm Joseph Smith 👋</h1>
-<h3 align="center">Full Stack Engineer with experience of over 15 years.</h3>
+<h3 align="center">Full Stack Developer with experience of over 10 years.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=speedpoint2019&label=Profile%20views&color=0e75b6&style=flat" alt="speedpoint2019" /> </p>
 
